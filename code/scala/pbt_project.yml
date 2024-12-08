@@ -1,0 +1,74 @@
+name: brittny.dach
+description: even-keeled
+version: 0.0.1
+author: aaohhrnp.s0bdcjix@k4phou6t.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: brittnydach
+  parentArtefactID: aaohhrnps0bdcjixk4phou6tcomteam
+  buildSystem: maven
+  author: null
+  createdAt: '2024-12-08 20:22:29'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: 2.12.15
+  gemLibsVersion: 1.1.26
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-12-08 20:22:29'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-12-08T20:22:29.791863Z'
+  name: plibMaven
+  version: 8.7.0-SNAPSHOT
+  id: '352619671'
+  createdAt: '2024-12-08T20:22:29.791863Z'
+  type: plibMaven
+projectDependencies:
+  '42':
+    projectUID: 42
+    projectName: peter.dibbert
+    repositoryPath: gitUri=http://gitserver:3000/dev_WCPQ481a_team_83/dev_WCPQ481a_project_42.git&subPath=
+    version: peter.dibbert/9.7.134
+    isDefault: false
+    author: null
+    createdAt: '2024-12-08 20:22:29'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations:
+  pipelineConfigurations/peter.dibbert/America_StrackeBuck_NgGala_Ryan_Jr_:
+    author: aaohhrnp.s0bdcjix@k4phou6t.com
+    createdAt: '2024-12-08 20:22:30'
+    configurations:
+      pipelineConfigurations/peter.dibbert/America_StrackeBuck_NgGala_Ryan_Jr_/dev:
+        name: dev
+        author: null
+        createdAt: '2024-12-08 20:22:30'
+      pipelineConfigurations/peter.dibbert/America_StrackeBuck_NgGala_Ryan_Jr_/dev2:
+        name: dev2
+        author: null
+        createdAt: '2024-12-08 20:22:30'
+      pipelineConfigurations/peter.dibbert/America_StrackeBuck_NgGala_Ryan_Jr_/dev3:
+        name: dev3
+        author: null
+        createdAt: '2024-12-08 20:22:30'
+    basePipeline: 42/pipelines/America_StrackeBuck_NgGala_Ryan_Jr_
