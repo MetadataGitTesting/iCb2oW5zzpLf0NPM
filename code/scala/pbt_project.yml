@@ -59,16 +59,8 @@ pipelineConfigurations:
     author: aaohhrnp.s0bdcjix@k4phou6t.com
     createdAt: '2024-12-08 20:22:30'
     configurations:
-      pipelineConfigurations/peter.dibbert/America_StrackeBuck_NgGala_Ryan_Jr_/dev:
-        name: dev
-        author: null
-        createdAt: '2024-12-08 20:22:30'
       pipelineConfigurations/peter.dibbert/America_StrackeBuck_NgGala_Ryan_Jr_/dev2:
         name: dev2
-        author: null
-        createdAt: '2024-12-08 20:22:30'
-      pipelineConfigurations/peter.dibbert/America_StrackeBuck_NgGala_Ryan_Jr_/dev3:
-        name: dev3
         author: null
         createdAt: '2024-12-08 20:22:30'
     basePipeline: 42/pipelines/America_StrackeBuck_NgGala_Ryan_Jr_
